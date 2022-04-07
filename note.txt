@@ -1,0 +1,7 @@
+sprav stranku o witcherovi, ktora musi obsahovat:
+	- obrazok ako staticke pozadie, ktore bude natiahnute cez na celu obrazovku a bude na kazdej podstranke
+	- nadpis, ako klikatelne logo na domovsku stranku hore v rohu a bude na kazdej podstranke
+	- menu, ktore bude mat ako klikatelne odkazy(text spolu s nejakym malym obrazkom)
+	- tie odkazy budu smerovat na domovsku stranku(home page), galeriu obrazkov(gallery), a poslednu necham       na tebe, hlavne nech dava nejaky zmysel
+	- pouzi hlavne semanticke elementy ako kontajneri jednotlivym blokov a zakomponuj do nich text, ktory sa im hodi a daj ich tam, kde maju byt
+	- vsetko musi navazovat na temu spojenu s witcherom
